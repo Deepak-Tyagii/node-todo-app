@@ -16,5 +16,3 @@ Run these commands:
 or Run by docker compose
 
 test
-
-# todo-node-app
