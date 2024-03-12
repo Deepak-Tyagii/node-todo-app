@@ -18,7 +18,3 @@ or Run by docker compose
 test
 
 # todo-node-app
-# node-todo-app
-# node-todo-app
-# node-todo-app
-# node-todo-app
